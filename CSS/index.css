@@ -1,0 +1,30 @@
+body {
+    font-family: Helvetica;
+}
+.image {
+    font-size:80px;
+    font-weight:bold;
+    background-image:url(/Images/pattern.jpeg); 
+}
+h1 {
+    color:khaki;
+    text-align: center;
+}
+h2 {
+    font-size:32px;
+    font-weight:bold;
+    color:white;
+}
+#Heading1 {
+    background-color: mediumspringgreen;
+}
+#Heading2 {
+    background-color:lightcoral;
+}
+#Heading3 {
+    background-color: skyblue;
+}
+span {
+    font-weight:bold;
+    color:blue;
+}
